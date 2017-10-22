@@ -1,0 +1,10 @@
+C:\Users\thien\source\repos\1560161_BTCN07\KhachHang\bin\Debug\KhachHang.exe.config
+C:\Users\thien\source\repos\1560161_BTCN07\KhachHang\bin\Debug\KhachHang.exe
+C:\Users\thien\source\repos\1560161_BTCN07\KhachHang\bin\Debug\KhachHang.pdb
+C:\Users\thien\source\repos\1560161_BTCN07\KhachHang\obj\Debug\KhachHang.csprojResolveAssemblyReference.cache
+C:\Users\thien\source\repos\1560161_BTCN07\KhachHang\obj\Debug\KhachHang.Form1.resources
+C:\Users\thien\source\repos\1560161_BTCN07\KhachHang\obj\Debug\KhachHang.Properties.Resources.resources
+C:\Users\thien\source\repos\1560161_BTCN07\KhachHang\obj\Debug\KhachHang.csproj.GenerateResource.Cache
+C:\Users\thien\source\repos\1560161_BTCN07\KhachHang\obj\Debug\KhachHang.csproj.CoreCompileInputs.cache
+C:\Users\thien\source\repos\1560161_BTCN07\KhachHang\obj\Debug\KhachHang.exe
+C:\Users\thien\source\repos\1560161_BTCN07\KhachHang\obj\Debug\KhachHang.pdb
